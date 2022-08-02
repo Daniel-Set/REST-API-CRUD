@@ -1,4 +1,4 @@
-package com.gx.interview;
+package pl.setlikD.restapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
