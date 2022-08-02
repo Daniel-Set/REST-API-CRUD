@@ -1,4 +1,4 @@
-# REST-AP-CRUD
+# REST-API-CRUD
 ## Description:
 Simple REST Application to represent my skills.
 CRUD has been implemented and tested.
