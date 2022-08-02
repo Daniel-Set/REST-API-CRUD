@@ -1,4 +1,4 @@
-package com.gx.interview.star;
+package pl.setlikD.restapi.star;
 
 import lombok.Builder;
 import lombok.Getter;
